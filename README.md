@@ -13,7 +13,7 @@ Available Options:<br>
 
 **Finance through CCF donations**
 
-Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of April. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of April. Any left over funds from April will be carried into April to fund running costs.   
+Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of April. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of April. Any left over funds from March will be carried into April to fund running costs.   
 
 We are requesting $223,000 or 247.78 bln qubics at USD900 / bln to fund the running costs for the month of April.<br> 
 
