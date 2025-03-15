@@ -1,6 +1,6 @@
 # Qubic Core Services - Budget Proposal
 
-**Proposal: Request to approve the Qubic Core Services for the month of March budget proposal**
+**Proposal: Request to approve the Qubic Core Services for the month of April budget proposal**
 
 -------
 
@@ -13,9 +13,9 @@ Available Options:<br>
 
 **Finance through CCF donations**
 
-Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of March. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of March. Any left over funds from March will be carried into April to fund running costs.   
+Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of April. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of April. Any left over funds from April will be carried into April to fund running costs.   
 
-We are requesting $223,000 or 247.78 bln qubics at USD900 / bln to fund the running costs for the month of March.<br> 
+We are requesting $223,000 or 247.78 bln qubics at USD900 / bln to fund the running costs for the month of April.<br> 
 
 Receiving wallet address: STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE<br>
 
@@ -177,7 +177,7 @@ The SFO team's role is to translate high-level vision into tangible operationsâ€
 - Incorporate community feedback and lessons learned into the subsequent roadmap cycles.
 
 ## SFO Budget Request
-The team continues to drive the roadmap, objective key-results, helps accelerate key projects, budgeting, HR, legal advisory and helps to operationally onboard new projects into the Qubic ecosystem. Due to the decreasing price the budget was slashed. As such, we are requesting to only fund the running costs, legal fees, and expenses for the month of March.  
+The team continues to drive the roadmap, objective key-results, helps accelerate key projects, budgeting, HR, legal advisory and helps to operationally onboard new projects into the Qubic ecosystem. Due to the decreasing price the budget was slashed. As such, we are requesting to only fund the running costs, legal fees, and expenses for the month of April.  
 
 With this structured plan and budget allocation, Qubic will have a clear operational framework for turning its 2025 vision into tangible outcomes. Each objective directly supports the roadmap, providing measurable targets for ecosystem growth, innovation, financial stewardship, and internal efficiency.
 
@@ -192,7 +192,10 @@ The Community Management team moderates the Qubic Discord server and Telegram ch
 # Budget Breakdown
 
 
-![image](https://github.com/user-attachments/assets/1bf19e48-40d8-4117-8c6f-c82eef8ef07f)
+
+![image](https://github.com/user-attachments/assets/4064168a-15bb-46e2-a165-0ccaabc5ca23)
+
+
 
 -----------
 
