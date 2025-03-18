@@ -6,7 +6,7 @@
 
 Available Options:<br>
 **Option 0:** No, I don’t want<br>
-**Option 1:** Yes, approved the budget of  247.78 bln qubics.<br>
+**Option 1:** Yes, approved the budget of  210 bln qubics.<br>
 
 -------
 ## Overview
@@ -15,7 +15,7 @@ Available Options:<br>
 
 Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of April. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of April. Any left over funds from March will be carried into April to fund running costs.   
 
-We are requesting $223,000 or 247.78 bln qubics at USD900 / bln to fund the running costs for the month of April.<br> 
+We are requesting $231,000 usd or 210 bln qubics at USD1100 / bln to fund the running costs for the month of April.<br> 
 
 Receiving wallet address: STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE<br>
 
@@ -193,7 +193,8 @@ The Community Management team moderates the Qubic Discord server and Telegram ch
 
 
 
-![image](https://github.com/user-attachments/assets/cf16a2f0-4cee-4c02-88ee-72b709139fea)
+![image](https://github.com/user-attachments/assets/1bf04c21-96c2-4fa8-9e97-f71d8909e73e)
+
 
 
 
