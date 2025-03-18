@@ -193,7 +193,8 @@ The Community Management team moderates the Qubic Discord server and Telegram ch
 
 
 
-![image](https://github.com/user-attachments/assets/4064168a-15bb-46e2-a165-0ccaabc5ca23)
+![image](https://github.com/user-attachments/assets/cf16a2f0-4cee-4c02-88ee-72b709139fea)
+
 
 
 
