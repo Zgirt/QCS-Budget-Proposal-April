@@ -13,11 +13,11 @@ Available Options:<br>
 
 **Finance through CCF donations**
 
-Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of April. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of April. Any left over funds from March will be carried into April to fund running costs.   
+QQubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations for the month of April. As the Qubic price decreased significantly, our previous budget was cut one month short. To reduce the impact on the CCF, we request funding for only the month of April. Any left over funds will be carried into future budgets to fund  the continued running costs.CCF currently holds 859 bn qubic and receives income of around 300bn per month. 
 
-We are requesting $234,623 usd or 213.29 bln qubics at USD1100 / bln to fund the running costs for the month of April.<br> 
+We are requesting $234,62 usd or 213.29 bln qubics at USD1100 / bln to fund the running costs for the month of April.<br> 
 
-Receiving wallet address: STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE<br>
+Receiving wallet address: `STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE`<br>
 
 Funds will be further distributed across ecosystem, marketing, community management and operation workgroups
 
@@ -99,6 +99,16 @@ Ecosystem expenses are allocated for team salaries, market makers, the T2 US lis
 ## Scaling Adoption, Strengthening Market Position, and Attracting Investment
 
 The Qubic Marketing team is executing a refined strategy to accelerate growth, establish enterprise and Web3 credibility, and drive retail & investor confidence. Q2 2025 is a pivotal quarter focused on high-impact initiatives that align marketing efforts with Qubic’s expansion, real-world utility demonstration, and refined communications approach.
+
+In-Depth 2025 & Beyond Marketing Strategy + April Budget 
+
+[View the Presentation](https://www.canva.com/design/DAGhQyNBgrY/dmhxZNEFdDU88UROLsoWig/view?utm_content=DAGhQyNBgrY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h63a0c73458)
+
+<img width="724" alt="image" src="https://github.com/user-attachments/assets/8e1d3f4e-f123-4068-98fb-9fb680723620" />
+
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/2effd0e3-1d0a-40be-bec3-d4bc45f89002" />
+
+
 
 ## Three Strategic Pillars of Qubic Marketing
 
